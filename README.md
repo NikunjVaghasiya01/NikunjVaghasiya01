@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Yash Trivedi, a passionate self-taught web developer from India.
+Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger developer from India.
 
 - 🔭 I’m currently working on Private repo of Staking.<!---[Dapp Chain](https://github.com/yashtrivedi2000/Dapp-Chain)-->
 - 🌱 I’m currently learning Hyperledger Fabric.
