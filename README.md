@@ -21,9 +21,9 @@ Hi, I'm Yash Trivedi, a passionate self-taught web developer from India.
 
 <code><img height="20" src="https://miro.medium.com/max/1400/0*yqbRInqX0ZRUlVS0"></code>
 <code><img height="20" src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg"></code>
-<code><img height="20" src="https://en.wikiversity.org/wiki/Python#/media/File:Python.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 <!---
   if you have forked this to use on your profile,
