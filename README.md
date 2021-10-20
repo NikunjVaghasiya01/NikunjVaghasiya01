@@ -48,3 +48,22 @@ Hi, I'm Yash Trivedi, a passionate self-taught web developer from India.
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d3athgr1p&repo=Watchdog&theme=material-palenight" />
 </a>
+
+
+<div> 
+  <a href="https://www.instagram.com/kishansudani" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <!-- <a href="https://www.facebook.com/willianmano" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a> -->
+  <a href = "mailto:kishansudani661@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/kishan-sudani/?locale=en_US" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+
+![Snake animation](https://github.com/willianmano/willianmano/blob/main/github-contribution-grid-snake.svg)
+
+</div>
