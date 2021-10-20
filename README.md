@@ -13,7 +13,7 @@
 
 Hi, I'm Yash Trivedi, a passionate self-taught web developer from India.
 
-- 🔭 I’m currently working on [Dapp Chain](https://github.com/yashtrivedi2000/Dapp-Chain)
+- 🔭 I’m currently working on Private repo of Staking.<!---[Dapp Chain](https://github.com/yashtrivedi2000/Dapp-Chain)-->
 - 🌱 I’m currently learning Hyperledger Fabric.
 <!-- - 👯 I’m looking to collaborate on [Dapp Chain](https://github.com/kishansudani) -->
 
@@ -47,8 +47,4 @@ Hi, I'm Yash Trivedi, a passionate self-taught web developer from India.
 <a href="https://github.com/kishansudani/DappForVotting">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d3athgr1p&repo=Watchdog&theme=material-palenight" />
-</a>    
-<a href="https://github.com/yashtrivedi2000/Competitive-Coding">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://www.hackerrank.com/certificates/ec028f5f2dfa" />
 </a>
