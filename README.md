@@ -49,6 +49,8 @@ Hi, I'm Yash Trivedi, a passionate self-taught web developer from India.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d3athgr1p&repo=Watchdog&theme=material-palenight" />
 </a>
 
+<br />
+<br />
 
 <div> 
   <a href="https://www.instagram.com/kishansudani" target="_blank">
