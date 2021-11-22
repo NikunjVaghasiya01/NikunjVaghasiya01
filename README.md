@@ -66,6 +66,8 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 
+<code><img src="https://metahero.io/animation.svg"><code>
+
 ![Snake animation](https://github.com/D3athGr1p/D3athGr1p/blob/main/github-contribution-grid-snake.svg)
 
 </div>
