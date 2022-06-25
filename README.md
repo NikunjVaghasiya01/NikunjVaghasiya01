@@ -1,5 +1,5 @@
 ### Hi there, I'm KISHAN 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=D3athGr1p+%3D%3D+Dev+%3F+True+%3A+True)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=D3athGr1p+%3D%3D+Dev+%3F+True+%3A+True;Blockchain+Developer)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/kishan-sudani">
   <img align="left" alt="Kishan Sudani | LinkedIn"  width="61px" src="https://raw.githubusercontent.com/yashtrivedi2000/yashtrivedi2000/master/assets/linkedin.svg" />
