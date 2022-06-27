@@ -100,7 +100,7 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 
 <code><img height="100" width="100" src="https://metahero.io/animation.svg"><code>
 
-![Snake animation](https://github.com/D3athGr1p/D3athGr1p/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/D3athGr1p/D3athGr1p/blob/main/images/github-contribution-grid-snake.svg)
 
 </div>
 
