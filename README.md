@@ -1,13 +1,11 @@
 ### Hi there, I'm KISHAN 👋
+
+<p align="center">
+  <img align="center" src="https://github.com/D3athGr1p/D3athGr1p/blob/main/images/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=D3athGr1p+%3D%3D+Dev+%3F+True+%3A+True;Blockchain+Developer)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/kishan-sudani">
-  <img align="left" alt="Kishan Sudani | LinkedIn"  width="61px" src="https://raw.githubusercontent.com/yashtrivedi2000/yashtrivedi2000/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://twitter.com/Z3R097">
-  <img align="left" alt="Z3R0 | Twitter" width="21px" src="https://raw.githubusercontent.com/yashtrivedi2000/yashtrivedi2000/master/assets/twitter.svg" />
-</a>
 
 <br />
 <br />
