@@ -4,7 +4,13 @@
   <img align="center" src="https://github.com/D3athGr1p/D3athGr1p/blob/main/images/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=D3athGr1p+%3D%3D+Dev+%3F+True+%3A+True;Blockchain+Developer)](https://git.io/typing-svg)
+
+
+<p align="center">
+  <img align="center" src="./images/folkless.png?raw=true" style = "width: -webkit-fill-available;" height="120" />
+</p>
 
 
 <br />
