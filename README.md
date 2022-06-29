@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img align="center" src="./images/folkless.png?raw=true" style = "width: -webkit-fill-available;" height="120" />
+  <img align="center" src="./images/folkless.png?raw=true"  height="120" width="891" />
 </p>
 
 
