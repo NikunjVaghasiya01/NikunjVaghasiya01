@@ -60,9 +60,9 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3athgr1p&layout=compact&theme=material-palenight" />
 </a>
-<a href="hhttps://github.com/D3athGr1p/Watchdog">
+<a href="https://github.com/D3athGr1p/Solidity-Normal-Logic">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=d3athgr1p&repo=Watchdog&theme=material-palenight" />
+  <img align="center" height="470" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=d3athgr1p&repo=Solidity-Normal-Logic&theme=material-palenight" />
 </a>
 
 
