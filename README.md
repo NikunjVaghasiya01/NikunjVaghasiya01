@@ -42,18 +42,9 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 
 <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-<a href="#">
+<!-- <a href="#">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=d3athgr1p&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Kishan's github stats" />
-</a>
-<a href="#">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3athgr1p&layout=compact&theme=material-palenight" />
-</a>
-
-<a href="hhttps://github.com/D3athGr1p/Watchdog">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d3athgr1p&repo=Watchdog&theme=material-palenight" />
-</a>
+</a> -->
 
 <a><h2>Stats</h2></a>
 <div>
@@ -64,7 +55,15 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=d3athgr1p&theme=shades-of-purple&hide_border=true"/>
     </a>
   </div>
-  </br>
+</br>
+<a href="#">
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3athgr1p&layout=compact&theme=material-palenight" />
+</a>
+<a href="hhttps://github.com/D3athGr1p/Watchdog">
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=d3athgr1p&repo=Watchdog&theme=material-palenight" />
+</a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
