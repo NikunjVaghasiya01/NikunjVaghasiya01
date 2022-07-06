@@ -40,6 +40,13 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_truffle.png" alt="truffle" width="40" height="40"/></a>
 <img src="https://camo.githubusercontent.com/c2568ca449a0dd817656010512e345341036abb8f462ad74c5d7aea675094003/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f72656163742d313137353130392e706e67" alt="react" width="40" height="40"/></a>
   
+**MAIN DEFI**
+
+<img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="40">
+<img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="40">
+<img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="40">
+<img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="40">
+<img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="40">
 <!---
   if you have forked this to use on your profile,
   Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`
