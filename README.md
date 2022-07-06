@@ -24,7 +24,7 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 
 **Languages and Tools:**
 
-<code><img height="30" width="30" src="https://miro.medium.com/max/1400/0*yqbRInqX0ZRUlVS0"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_solidity.png"></code>
 <code><img height="30" width="30" src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -33,8 +33,13 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" width="30" src="https://files.gitter.im/ethereum/remix/h3Hj/remix_logo_light.png"></code>
 
+**Technologies**
 
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="javascript" width="40" height="40"/></a> 
+<img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_metamask.png" alt="metamask" width="40" height="40"/></a>
+<img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_truffle.png" alt="truffle" width="40" height="40"/></a>
+<img src="https://camo.githubusercontent.com/c2568ca449a0dd817656010512e345341036abb8f462ad74c5d7aea675094003/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f72656163742d313137353130392e706e67" alt="react" width="40" height="40"/></a>
+  
 <!---
   if you have forked this to use on your profile,
   Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`
