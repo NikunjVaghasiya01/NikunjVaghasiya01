@@ -42,11 +42,7 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
   
 **MAIN DEFI**
 
-<img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="40">
-<img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="40">
-<img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="40">
-<img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="40">
-<img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="40">
+<img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="40"><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="40"><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="40"><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="40"><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="40">
 <!---
   if you have forked this to use on your profile,
   Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`
