@@ -1,11 +1,11 @@
-### Hi there, I'm KISHAN 👋
+### Hi there, I'm Nikunj Vaghasiya 👋
 
 <p align="center">
-  <img align="center" src="https://github.com/D3athGr1p/D3athGr1p/blob/main/images/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/NikunjVaghasiya01/NikunjVaghasiya01/blob/main/images/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=D3athGr1p+%3D%3D+Dev+%3F+True+%3A+True;Blockchain+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=NikunjVaghasiya01+%3D%3D+Dev+%3F+True+%3A+True;Blockchain+Developer)](https://git.io/typing-svg)
 
 
 <p align="center">
@@ -16,11 +16,11 @@
 <br />
 <br />
 
-Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger developer from India.
+Hi, I'm Nikunj Vaghasiya, a passionate self-taught Blockchain and Hyperledger developer from India.
 
-- 🔭 I’m currently working on Private repo of Staking and [Multi Send ERC20 AirDrop](https://github.com/D3athGr1p/Multi-Send-ERC20-AirDrop).<!---[Dapp Chain](https://github.com/yashtrivedi2000/Dapp-Chain)-->
+- 🔭 I’m currently working on Private repo of Staking and Multi Send ERC20 AirDrop.
 - 🌱 I’m currently learning Hyperledger Fabric.
-<!-- - 👯 I’m looking to collaborate on [Dapp Chain](https://github.com/kishansudani) -->
+<!-- - 👯 I’m looking to collaborate on [Dapp Chain](https://github.com/NikunjVaghasiya01) -->
 
 **Languages and Tools:**
 
@@ -43,35 +43,22 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 **MAIN DEFI**
 
 <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="40"><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="40"><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="40"><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="40"><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="40">
-<!---
-  if you have forked this to use on your profile,
-  Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`
---->
-
-<!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-<!-- <a href="#">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=d3athgr1p&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Kishan's github stats" />
-</a> -->
 
 <a><h2>Stats</h2></a>
 <div>
     <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=d3athgr1p&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=NikunjVaghasiya01&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=d3athgr1p&theme=shades-of-purple&hide_border=true"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=NikunjVaghasiya01&theme=shades-of-purple&hide_border=true"/>
     </a>
   </div>
 </br>
 <a href="#">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3athgr1p&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikunjVaghasiya01&layout=compact&theme=material-palenight" />
 </a>
-<a href="https://github.com/D3athGr1p/Solidity-Normal-Logic">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=d3athgr1p&repo=Solidity-Normal-Logic&theme=material-palenight" />
-</a>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -79,14 +66,14 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 
 </br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=d3athgr1p&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NikunjVaghasiya01&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 
 ### Profile Views
 
-![](https://count.getloli.com/get/@d3athgr1p.github.readme)
+![](https://count.getloli.com/get/@NikunjVaghasiya01.github.readme)
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
@@ -96,22 +83,19 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 <br />
 
 <div> 
-  <a href="https://www.instagram.com/kishan._.sudani" target="_blank">
+  <a href="https://www.instagram.com/nikunj.nv" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <!-- <a href="https://www.facebook.com/willianmano" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a> -->
-  <a href = "mailto:kishansudani661@gmail.com">
+  <a href = "mailto:nikunj.vaghasiya0211@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/kishan-sudani/?locale=en_US" target="_blank">
+  <a href="https://www.linkedin.com/in/nikunj-vaghasiya/?locale=en_US" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 
 <code><img height="100" width="100" src="https://metahero.io/animation.svg"><code>
 
-![Snake animation](https://github.com/D3athGr1p/D3athGr1p/blob/main/images/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NikunjVaghasiya01/NikunjVaghasiya01/blob/main/images/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -119,7 +103,7 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=d3athgr1p&theme=dracula&no-frame=true&margin-w=15&margin-h=15&date_format=j%20M%5B%20Y%5D&locale=es)](https://github.com/corpjorge/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NikunjVaghasiya01&theme=dracula&no-frame=true&margin-w=15&margin-h=15&date_format=j%20M%5B%20Y%5D&locale=es)](https://github.com/corpjorge/github-profile-trophy)
 
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
