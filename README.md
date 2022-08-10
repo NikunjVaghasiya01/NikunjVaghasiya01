@@ -80,6 +80,8 @@ Hi, I'm Nikunj Vaghasiya, a passionate self-taught Blockchain and Hyperledger de
 <br />
 <br />
 
+[![Nikunj's github activity graph](https://activity-graph.herokuapp.com/graph?username=d3athgr1p&bg_color=000000&color=ff00ee&line=00bfff&point=eae5ff&area=true&hide_border=true)](https://github.com/D3athGr1p/github-readme-activity-graph)
+
 <div> 
   <a href="https://www.instagram.com/nikunj.nv" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
